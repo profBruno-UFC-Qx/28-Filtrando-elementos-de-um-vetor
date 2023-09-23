@@ -29,7 +29,7 @@ test('Filtrando por conclusão', () => {
 });
 
 
-test('Filtrando por priodade', () => {
+test('Filtrando por prioridade', () => {
   const tarefas = [
     { titulo: "Estudar JavaScript", concluida: false, prioridade: 1 },
     { titulo: "Fazer compras", concluida: true, prioridade: 1 },
